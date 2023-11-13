@@ -6,4 +6,5 @@ docker build --build-arg http_proxy=http://user:password@proxy-server:port --bui
 
 
 docker-compose build
+
 docker-compose up
